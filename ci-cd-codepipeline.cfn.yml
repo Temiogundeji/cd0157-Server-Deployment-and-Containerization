@@ -32,6 +32,7 @@ Parameters:
 
   GitHubToken:
     Type: String
+    Default: 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
     NoEcho: true
     Description: GitHub API token - see https://github.com/blog/1509-personal-api-tokens
     MinLength: 3
@@ -40,7 +41,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: SudKul
+    Default: Temiogundeji
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
